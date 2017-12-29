@@ -1,6 +1,9 @@
 [package]
 name = "simple_io"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Lukáš Hozda <luk.hozda@gmail.com>"]
+license = "Fair"
+description = "A tiny, simple IO helper library"
+repository = "https://github.com/luciusmagn/simple_io"
 
 [dependencies]
